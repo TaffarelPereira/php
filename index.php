@@ -1,4 +1,4 @@
 <?php
     echo"Hello World!";
-    echo "Curso PHP completo";
+    echo "Curso completo de PHP";
 ?>
